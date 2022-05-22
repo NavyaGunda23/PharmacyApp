@@ -1,0 +1,60 @@
+.App {
+ 
+   background-color:white;
+   }
+   .registration{
+     padding: 20px;
+     text-align: left;
+   }
+   .label{
+   display: block;
+   font-size: 14px;
+   color: #333;
+   padding: 5px;
+   text-align: left;
+   }
+   
+   .input{
+   font-size: 14px;
+   padding: 8px 12px;
+   margin: 2px;
+   border: 1px solid #9f9b9b;
+   border-radius: 4px;
+   width: 350px;
+   }
+   input:focus-visible{
+     border-color: #003e75;
+   }
+   .btn{
+   color: white !important;
+   background-color: #003e75 !important;
+   border-radius: 5px;
+   font-size: 14px;
+   display: block;
+   padding: 10px 12px;
+   border:1px solid #003e75 !important
+   }
+   
+   .messages{
+   display: flex;
+   justify-content: center;
+   }
+   
+   .error{
+   display: block;
+   color: red;
+   width: fit-content;
+   padding: 5px;
+   }
+   
+   .success h1{
+   display: block;
+   color: #003e75;
+   width: fit-content;
+   height: 50px;
+   padding: 5px;
+   }
+   .d-none{
+     display: none;
+   }
+   

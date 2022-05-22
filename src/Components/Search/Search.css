@@ -1,0 +1,11 @@
+input{
+   font-size: 14px;
+   padding: 8px 12px;
+   margin: 2px;
+   border: 1px solid #9f9b9b;
+   border-radius: 4px;
+   width: 350px;
+}
+.searchDiv{
+    padding: 20px;
+}

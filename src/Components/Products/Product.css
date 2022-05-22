@@ -1,0 +1,58 @@
+.card-img-top{
+    height: 238px;
+    object-fit: inherit;
+    border-bottom: 1px solid rgb(217, 217, 217);
+}
+.card-body{
+    text-align: left;
+}
+.tagbutton{
+    background: white;
+    border: 1px solid rgb(203, 203, 203);
+    border-radius: 20px;
+    padding: 8px 15px;
+    margin-right: 20px;
+    color:black ;
+}
+.tagbutton.active{
+    background: rgb(80, 80, 185);
+    color: white;
+}
+.menu{
+    width: 100%;
+    background: #212529;
+    padding: 20px;
+    color: white;
+    display: inline-block;
+}
+.home{
+    float: left;
+    color: white;
+}
+.Cart{
+    float: right;
+    color: white;
+}
+.catDiv{
+    float: left;
+    clear: both;
+}
+.filter{
+    float: left;
+    padding: 9px 20px;
+    margin-top: 20px;
+}
+.prdCard{
+    clear: both;
+}
+.float-left{
+    float: left;
+}
+.p-20{
+    padding: 20px;
+}
+.toast{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}

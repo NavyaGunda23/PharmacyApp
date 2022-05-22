@@ -1,0 +1,22 @@
+.input {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 2px;
+    border: 1px solid #9f9b9b;
+    border-radius: 4px;
+    width: 350px;
+}
+
+input:focus-visible {
+    border-color: #003e75;
+}
+
+.btn {
+    color: white;
+    background-color: #003e75;
+    border-radius: 5px;
+    font-size: 14px;
+    display: block;
+    padding: 10px 12px;
+    border: 1px solid #003e75
+}
